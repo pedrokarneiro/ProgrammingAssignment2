@@ -1,5 +1,4 @@
-# ProgrammingAssignment2
-
+### ProgrammingAssignment2
 **Please select the "pedro" branch at the branch ![Branch button](https://confluence.atlassian.com/download/attachments/304578655/branch_12.png?version=3&modificationDate=1400595268047&api=v2) button for assessing my submission!**
 
 Or you might click [here to go directly to my "pedro" branch](https://github.com/pedrokarneiro/ProgrammingAssignment2/tree/pedro) under this very same fork.
